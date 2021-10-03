@@ -1,12 +1,9 @@
 ### Hi there, I'm rad - aka @NotThatRqd 👋
 
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
-
-### You can contact me through Discord: *NotThatRqd#0001*
+- 🌱 I’m currently learning (Discord.js v13)[https://discord.js.org/]
+- 🥅 2022 Goals: Learn how to fully use Github lol
+- ⚡ Fun fact: I use Discord a lot
+- 📬 You can contact me through Discord: *NotThatRqd#0001*
 
 <br />
 
