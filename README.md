@@ -8,5 +8,6 @@
 ### My favorite languages ✔️
 
 - Rust
-- Java
+- ~~Java~~
+- Kotlin
 - C
