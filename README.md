@@ -9,5 +9,5 @@
 
 - Rust
 - Haskell `λ`
-- ~~Java~~ Kotlin
+- Java
 - C
